@@ -1,7 +1,8 @@
 <!-- Banner -->
 
+![ChatGPT Image 15  Juni 2025, 21_10_54](https://github.com/user-attachments/assets/6b78d588-d973-44f3-85ec-77961b414844)
 
-![GitHubprofil](https://github.com/user-attachments/assets/680e2c13-37ab-4035-a477-a1376ad99b33)
+<!--![GitHubprofil](https://github.com/user-attachments/assets/680e2c13-37ab-4035-a477-a1376ad99b33)-->
 
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
