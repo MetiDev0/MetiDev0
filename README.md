@@ -1,7 +1,7 @@
 <!-- Banner -->
 
-![GitHubprofil](https://github.com/user-attachments/assets/ade02d83-5b31-490d-bd4b-2f64fb09000a)
 
+![GitHubprofil](https://github.com/user-attachments/assets/680e2c13-37ab-4035-a477-a1376ad99b33)
 
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
