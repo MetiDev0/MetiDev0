@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- Banner -->
 
-<!--
-**MetiDev0/MetiDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHubprofil](https://github.com/user-attachments/assets/ade02d83-5b31-490d-bd4b-2f64fb09000a)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
+<h3 align="center">🌐 Professioneller Webentwickler | Spezialisiert auf HTML, CSS, Bootstrap, JavaScript & PHP</h3>
+
+<p align="center">
+ <a href="https://relax-immobilien.ch" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-relax--immobilien.ch-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:logicrog@gmail.com"><img src="https://img.shields.io/badge/E--Mail-Kontakt-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://ch.linkedin.com/in/meti-neziri-24b686162" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Über mich
+
+💡 Ich bin ein engagierter Webentwickler mit Fokus auf sauberen Code, responsive Designs und performante Weblösungen. Ich helfe Unternehmen, **digitale Erlebnisse zu schaffen**, die funktionieren und begeistern.
+
+- 📍 Standort: **Schweiz**
+- 🖥️ Fokus: **Front- & Backend-Webentwicklung**
+- 🎯 Ziel: Langfristige Zusammenarbeit mit Agenturen, KMUs & Startups
+- 📈 Projekte: Unternehmenswebsites, Verwaltungssoftware, Immobilienportale
+- 🤝 Offen für neue Herausforderungen (Freelance / Remote / Projektarbeit)
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+Frontend:   HTML5 · CSS3 · Bootstrap 5 · JavaScript (ES6+)
+Backend:    PHP (OOP) · MySQL
+Tools:      Git & GitHub · VS Code · Figma · XAMPP · phpMyAdmin
