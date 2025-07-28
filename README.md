@@ -44,27 +44,32 @@ Ich bin ein fokussierter **Frontend Entwickler** mit dem Ziel, durch sauberen Co
 
 ---
 
-## 🧩 Projekte
 
-| Projekt | Beschreibung | Stack |
-|--------|--------------|-------|
-| [Relax Immobilien](https://relax-immobilien.ch) | Immobilienplattform für Vermietung & Verkauf | WordPress + PHP |
-| Admin-Dashboard (Custom) | Verwaltungssystem für Objekte, Nutzer & Rechnungen | PHP · Bootstrap · MySQL |
-| UI-Komponenten in Figma | Wiederverwendbare UI-Bibliothek für Frontend-Projekte | Figma · Tailwind |
+## 🛠️ Tech Stack
 
----
+```txt
+**Frontend:**
+* HTML5
+* CSS3 (mit Fokus auf moderne Ansätze wie Flexbox, Grid, Custom Properties)
+* JavaScript (ES6+)
+* React.js 
+* Bootstrap 5
+* Tailwind CSS
+* Responsive Design
+* Web Performance Optimization
 
+**Tools:**
+* Git & GitHub
+* VS Code
+* Figma (für UI/UX-Integration)
+* NPM / Yarn (Paketmanager)
+* Webpack / Vite (Build Tools)
+
+```
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MetiDev0&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiDev0E&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MetiDev0&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiDev0&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
 
----
-
-## 📫 Kontakt
-
-- 📧 E-Mail: logicroc@gmail.com  
-- 🌐 Portfolio: [relax-immobilien.ch](https://relax-immobilien.ch)  
-- 💼 LinkedIn: [meti-neziri](https://ch.linkedin.com/in/meti-neziri-24b686162)
 
 ---
 
