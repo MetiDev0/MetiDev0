@@ -56,7 +56,7 @@ Ich bin ein fokussierter **Frontend Entwickler** mit dem Ziel, durch sauberen Co
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DEIN-NUTZERNAME&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-NUTZERNAME&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MetiDev0&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiDev0E&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
 
 ---
 
