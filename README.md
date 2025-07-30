@@ -1,5 +1,6 @@
 <!-- Modern Frontend Banner -->
 <!--![GitHub Banner](https://github.com/user-attachments/assets/6b78d588-d973-44f3-85ec-77961b414844)-->
+
 <img width="2048" height="1016" alt="Gemini_Generated_Image_984ml6984ml6984m" src="https://github.com/user-attachments/assets/e07558ae-7eea-4e56-a9b0-bd71f56cd40c" />
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
