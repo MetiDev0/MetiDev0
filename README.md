@@ -1,5 +1,5 @@
 <!-- Modern Frontend Banner -->
-![GitHub Banner](https://github.com/user-attachments/assets/6b78d588-d973-44f3-85ec-77961b414844)
+<!--![GitHub Banner](https://github.com/user-attachments/assets/6b78d588-d973-44f3-85ec-77961b414844)-->
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
 <h3 align="center">💻 Frontend Entwickler aus Amriswil, Schweiz</h3>
