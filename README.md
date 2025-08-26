@@ -68,12 +68,13 @@ Ich bin ein fokussierter **Frontend Entwickler** mit dem Ziel, durch sauberen Co
 * Webpack / Vite (Build Tools)
 
 ```
+```
 ## 📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MetiDev0&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiDev0&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
 
-
----
+```
+--- 
 
 <!-- Optional Footer -->
 <p align="center">
