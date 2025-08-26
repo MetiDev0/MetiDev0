@@ -35,46 +35,17 @@ Ich bin ein fokussierter **Frontend Entwickler** mit dem Ziel, durch sauberen Co
 ## 💡 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
 
-
-## 🛠️ Tech Stack
-
-```txt
-**Frontend:**
-* HTML5
-* CSS3 (mit Fokus auf moderne Ansätze wie Flexbox, Grid, Custom Properties)
-* JavaScript (ES6+)
-* React.js 
-* Bootstrap 5
-* Tailwind CSS
-* Responsive Design
-* Web Performance Optimization
-
-**Tools:**
-* Git & GitHub
-* VS Code
-* Figma (für UI/UX-Integration)
-* NPM / Yarn (Paketmanager)
-* Webpack / Vite (Build Tools)
-
-```
-```
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MetiDev0&show_icons=true&theme=tokyonight" alt="Meti's GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetiDev0&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> 
-
-```
---- 
 
 <!-- Optional Footer -->
 <p align="center">
