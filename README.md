@@ -1,7 +1,9 @@
 <!-- Modern Frontend Banner -->
 <!--![GitHub Banner](https://github.com/user-attachments/assets/6b78d588-d973-44f3-85ec-77961b414844)-->
 
-<img width="2048" height="1016" alt="Gemini_Generated_Image_984ml6984ml6984m" src="https://github.com/user-attachments/assets/e07558ae-7eea-4e56-a9b0-bd71f56cd40c" />
+<img width="1024" height="424" alt="Gemini_Generated_Image_khpfcxkhpfcxkhpf" src="https://github.com/user-attachments/assets/f91412e2-6033-4a53-8200-effbcf495f0c" />
+
+<!--<img width="2048" height="1016" alt="Gemini_Generated_Image_984ml6984ml6984m" src="https://github.com/user-attachments/assets/e07558ae-7eea-4e56-a9b0-bd71f56cd40c" />-->
 
 <h1 align="center">Hallo 👋, ich bin Meti Neziri</h1>
 <h3 align="center">💻 Frontend Entwickler aus Amriswil, Schweiz</h3>
